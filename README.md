@@ -55,7 +55,7 @@
 ## 💌 **Conecte-se Comigo**  
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/deborapesantos)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/debora-pereira-santos)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deborapesantos@gmail.com)
 
 </div>
